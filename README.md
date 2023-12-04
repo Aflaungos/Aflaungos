@@ -4,11 +4,11 @@
 </h1>
 <div>
   <img src="https://cdna.artstation.com/p/assets/images/images/001/008/198/medium/sylvain-sarrailh-pavillon.jpg"/>
-  <a href = "https://t.me/Aflaungos"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-<div id="badges">
   <img src="https://img.shields.io/badge/Motorola-Moto%20G6%20Plus%20(evert)-orange" target="_blank"/>
   <img src="https://img.shields.io/badge/Samsung-Galaxy%20M23-orange" target="_blank"/>
   <img src="https://komarev.com/ghpvc/?username=Aflaungos&style=flat-square&color=blue" alt=""/>
+  <a href = "https://t.me/Aflaungos"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<div id="badges">
 </div>
 <div align="height">
   <a href="https://github.com/Aflaungos">
