@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div>
+  <img src="https://cdna.artstation.com/p/assets/images/images/001/008/198/medium/sylvain-sarrailh-pavillon.jpg"/>
   <a href = "https://t.me/Aflaungos"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <div id="badges">
   <img src="https://img.shields.io/badge/Motorola-Moto%20G6%20Plus%20(evert)-orange" target="_blank"/>
