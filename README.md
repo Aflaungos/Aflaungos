@@ -1,6 +1,6 @@
 <h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 </h1>
 <div>
   <img src="https://cdna.artstation.com/p/assets/images/images/001/008/198/medium/sylvain-sarrailh-pavillon.jpg"/>
