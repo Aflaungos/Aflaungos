@@ -1,7 +1,4 @@
-<h1>
-  Hello there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
-</h1>
+![header](https://capsule-render.vercel.app/api?type=transparent&color=0:00FFFF,100:25737f&fontColor=00FFFF&height=200&section=header&reversal=true&text=I'm%20mrsiri&fontSize=90&fontAlign=45&desc=aka%20Aflaungos&descSize=30&descAlignY=70&descAlign=65&animation=fadeIn)
 <div>
   <img src="https://cdna.artstation.com/p/assets/images/images/001/008/198/medium/sylvain-sarrailh-pavillon.jpg"/>
   <img src="https://img.shields.io/badge/Motorola-Moto%20G6%20Plus%20(evert)-orange" target="_blank"/>
